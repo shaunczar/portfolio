@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("tooplate_body.jpg" ); /* Deep blue background */
+    color: #fff; /* White text */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  header {
+    background-color: transparent; /* Darker blue header */
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff; /* White navigation text */
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  section {
+    padding: 50px;
+  }
+  
+  section h2 {
+    margin-top: 0;
+    color: #b38bff; /* Purple section headings */
+  }
+  
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  .project img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .project h3 {
+    margin-top: 10px;
+  }
+  
+  footer {
+    background-color: #1a1a3a; /* Darker blue footer */
+    color: #fff; /* White footer text */
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  footer p {
+    margin: 0;
+  }
